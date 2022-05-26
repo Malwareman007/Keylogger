@@ -1,0 +1,7 @@
+pywin32
+ftplib
+smtplib
+urllib 
+pythoncom
+pyHook
+pynput
